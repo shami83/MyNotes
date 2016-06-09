@@ -1,0 +1,42 @@
+Core java training will be start at Bagbazar
+
+Tutor Name : Shamik Mitra
+9 years of professional experience in Java. Currently work for IBM as a Technical leader.
+
+Tuition Days: Every Sat 2.00 to 4.30 PM (With Practical)
+
+Fee: 2000 per month
+
+Course Offers: 
+
+1. OOPS concept
+2. What is JVM
+3. JDK and JRE
+4. Object and Class (constructors)
+5. Access Modifiers & Pacakge
+6. Condition and Loops
+7. Operators
+8. Encapsulation
+9  Composition (HAS-A)
+9. Inheritence
+10.Polymorohism (Overriding ,OverLoading)
+11. Abstraction (Abstract class)
+12. Object Class and utility methods
+13. Static modifiers and Other Important Keywords.
+14. Garbage collection
+15. String
+16. Files and I/O
+17. Serialization.
+18. Threads
+19 Collection
+20 Generics
+
+Free Class: Java interview question and answer discussion and Demo Project at end of training (Totally Free)
+
+Study materials:  e-book written by me . Learn java with shamik , Programming Example for all modules can be downloded from github.
+
+Interested Candidate can call or drop a mail.  (9830471739/mitrashamik@gmail.com)
+
+Feel free to  call at any time.
+
+My Blog : http://javaonfly.blogspot.in/
