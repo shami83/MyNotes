@@ -3,7 +3,7 @@ Core java training will be start at Bagbazar
 Tutor Name : Shamik Mitra
 9 years of professional experience in Java. Currently work for IBM as a Technical leader.
 
-Tuition Days: Every Sat 2.00 to 4.30 PM (With Practical)
+Tuition Days: TBD (With Practical)
 
 Fee: 2000 per month
 
@@ -31,11 +31,13 @@ Course Offers:
 19 Collection
 20 Generics
 
-Free Class: Java interview question and answer discussion and Demo Project at end of training (Totally Free)
+Free Classes: Java interview question and answer discussion and Demo Project at end of training (Totally Free)
 
 Study materials:  e-book written by me . Learn java with shamik , Programming Example for all modules can be downloded from github.
 
-Interested Candidate can call or drop a mail.  (9830471739/mitrashamik@gmail.com)
+Interested Candidate can call or drop a mail. 
+
+ (9830471739/mitrashamik@gmail.com)
 
 Feel free to  call at any time.
 
